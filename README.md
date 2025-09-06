@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+
+I am a PhD Student at the University of Alaska Fairbanks. I research diseases in marine mammals.
+Current Projects
+  -Researching spillover of H5 and SARS-CoV-2 into wild mammals in Alaska 🐶 🦭 🦊 🐻
+  -Use agnostic metagenomics to detect novel and unknown pathogens in stranded marine mammals 🦭 🐳 🐋 🦦 🐻‍❄️
 
 <!--
 **sgeorgenichol/sgeorgenichol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
